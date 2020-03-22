@@ -5,9 +5,13 @@ Based on pychat(https://github.com/xysun/pychat) with new added features.
 
 ## Instruction
 ### Server-side
+```python
   python3 server.py 
+```
 ### Client-side
-  * python3 client.py [server-ip](Optional)
+```python
+  python3 client.py [server-ip](Optional)
+```
   * Register if you are new or login if you are not
   * Enter <manual> to get command list. 
 
